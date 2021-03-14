@@ -15,10 +15,10 @@ headings that fall in sequential order,
 and a concise, descriptive title.
 
 Image of Website:
-![Screenshot](.assets/images/Screenshot.png)
+![Screenshot](./images/Screenshot.png)
 
  
-Website Link: https://amohamed77.github.io/Homework-01/
+Website Link: https://amohamed77.github.io/Homework-1-Bootcamp/
 
 Utilized HTML, CSS, Github.
 
