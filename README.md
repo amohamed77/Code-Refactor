@@ -15,15 +15,16 @@ headings that fall in sequential order,
 and a concise, descriptive title.
 
 Image of Website:
-![Screenshot](./images/Screenshot.png)
+![Screenshot](./assets/images/Screenshot.png)
 
  
 Website Link: https://amohamed77.github.io/Homework-1-Bootcamp/
 
 Utilized HTML, CSS, Github.
 
-Instructor - Benjamin Hutchins GitHub
-TA - Casey Ferguson LinkedIn
-License
+Assisted with the help of:
+
+Instructor: Benjamin Hutchins 
+TA: Casey Ferguson 
 
 Created by Abdullahi Mohamed
